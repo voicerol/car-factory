@@ -7,4 +7,3 @@ Create the following for your project for different scenarios:
 >- One Switch case
 
 > Step 3: Create a file in the `src/` directory and fulfill the specified conditions. It is important that intermediate files are saved in `bin/`.
-
