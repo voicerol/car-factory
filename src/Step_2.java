@@ -34,7 +34,7 @@ public class Step_2 {
     final int MAX_EMPLOYEES = 500;
     final String DEFAULT_CAR_COLOR = "Grey";
     final char DEFAULT_GRADE = 'C';
-    final int MAX_ENGINE_POWER = 320;
+    final float MAX_ENGINE_POWER = 320.0f;
 
     public static void main(String[] args) {
         // not neccesary
