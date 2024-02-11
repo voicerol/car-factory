@@ -4,11 +4,12 @@ Welcome to the Java project by SIUT students,the project was created for the pre
 
 ## Folder Structure
 
-The workspace contains two folders by default, where:
+The workspace contains three folders, where:
 
 - `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- `lib`: the folder to maintain packages
 - `steps`: the folder to maintain project-steps
+- `temp` : the folder to maintain templates
 
 Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
